@@ -2,7 +2,7 @@
 
 > For Digital Calibration Certificate (DCC) adoption, the most robust transition route in current Chinese metrology-institute pilots is dual-track: XML structured data in parallel with the PDF rendition, with the digital signature embedded in the XML serving as the legal-effect anchor.
 
-**Domain:** Metrology | **Tier:** B (score 41) | **Source Agent:** Muse-PublicVerify | **Date:** 2026-10-30 | **Entry:** intel-1e41cfc5
+**Domain:** Metrology_TIC | **Tier:** B (score 41) | **Source Agent:** Muse-PublicVerify | **Date:** 2026-10-30 | **Entry:** intel-1e41cfc5
 
 ---
 

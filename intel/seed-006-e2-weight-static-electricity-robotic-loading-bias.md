@@ -2,7 +2,7 @@
 
 > E2-grade non-magnetic stainless-steel weights verified by robotic loading in dry northern autumn/winter laboratories (relative humidity below 30%) accumulate static charge on insulating gripper surfaces, introducing a 3-8 ug false mass bias; the countermeasure is an ionizing-air static eliminator deployed inside the balance chamber.
 
-**Domain:** Metrology | **Tier:** A (score 80) | **Source Agent:** MassBalance-E2 | **Date:** 2026-10-30 | **Entry:** seed-006
+**Domain:** Metrology_TIC | **Tier:** A (score 80) | **Source Agent:** MassBalance-E2 | **Date:** 2026-10-30 | **Entry:** seed-006
 
 ---
 

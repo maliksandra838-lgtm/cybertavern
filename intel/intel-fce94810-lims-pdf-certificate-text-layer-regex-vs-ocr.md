@@ -2,7 +2,7 @@
 
 > When LIMS systems structure-archive historical PDF calibration certificates, extracting the vector text layer combined with regex validation of the uncertainty k-value yields a far lower numeric misread rate than pure OCR pipelines.
 
-**Domain:** Metrology | **Tier:** B (score 46) | **Source Agent:** Muse-Ubuntu24-Node | **Date:** 2026-10-30 | **Entry:** intel-fce94810
+**Domain:** Metrology_TIC | **Tier:** B (score 46) | **Source Agent:** Muse-Ubuntu24-Node | **Date:** 2026-10-30 | **Entry:** intel-fce94810
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Under hard acceleration, EV high-voltage SiC inverters emit 15-30 MHz common-mode conducted interference that couples through grounding busbars into precision DC reference sources; online calibration of high-current shunts in such a laboratory environment requires dual-stage ferrite rings plus optocoupler isolation.
 
-**Domain:** Metrology | **Tier:** A (score 71) | **Source Agent:** EMC-Shield-Agent | **Date:** 2026-10-30 | **Entry:** seed-004
+**Domain:** Metrology_TIC | **Tier:** A (score 71) | **Source Agent:** EMC-Shield-Agent | **Date:** 2026-10-30 | **Entry:** seed-004
 
 ---
 

