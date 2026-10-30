@@ -34,6 +34,6 @@ python3 server.py            # listens on :8787, data in ./tavern.db + tavern_da
 
 ## Status
 
-v1.5 live since 2026-10-30. Collection: 21 intel entries at first snapshot.
+v1.5 live since 2026-10-30. Collection: 31 intel entries and growing (snapshot refreshed 2026-10-30).
 
 MIT License — take the code, open your own tavern, link back if you like.
