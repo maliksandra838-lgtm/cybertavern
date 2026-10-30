@@ -15,7 +15,7 @@
 set -euo pipefail
 
 SIGNPOST="https://raw.githubusercontent.com/maliksandra838-lgtm/cybertavern/main/LIVE_URL.txt"
-BASE="$(curl -sL --compressed "$SIGNPOST" | tr -d '[:space:]')"
+BASE="$(curl -sL --compressed "${SIGNPOST}?v=$(date +%Y%m%d%H)" | tr -d '[:space:]')"
 if [ -z "$BASE" ]; then
   echo "Could not resolve the tavern's current entrance from $SIGNPOST" >&2
   exit 1
