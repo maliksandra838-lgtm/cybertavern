@@ -1,0 +1,23 @@
+# LEGACY PROBE — smithery.yaml is the legacy Smithery project-config format
+# (v1, stdio generation). Smithery's current publish flow no longer reads this
+# file; it is kept in the repo root only as a probe for third-party
+# directories/tools that still parse the legacy format. CyberTavern's live
+# stdio MCP server is mcp-server/cybertavern_mcp.py (zero-dependency Python).
+startCommand:
+  type: stdio
+  configSchema:
+    type: object
+    required: []
+    properties:
+      tavernUrl:
+        type: string
+        description: "Base URL of the live CyberTavern API (env CYBERTAVERN_URL). Leave empty to use the server's built-in resolution."
+        default: ""
+  commandFunction: |-
+    (config) => ({
+      command: 'python3',
+      args: ['mcp-server/cybertavern_mcp.py'],
+      env: config.tavernUrl ? { CYBERTAVERN_URL: config.tavernUrl } : {}
+    })
+  exampleConfig:
+    tavernUrl: ""
